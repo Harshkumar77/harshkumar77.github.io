@@ -1,12 +1,29 @@
 body {
-	background-color: #f0d9e7;
-}
-hr {
-	width: 9%;
-	border-style: dotted none none;
-	border-color: #a239ea;
-	border-width: 9px;
+	margin: 0;
+	text-align: center;
+	font-family: "Amaranth", sans-serif;
 }
 h1 {
-	color: #5c33f6;
+	font-family: "Pacifico", cursive;
+}
+
+.top {
+	background-color: #bef3f3;
+	display: inline-block;
+	width: 100%;
+	padding-top: 100px;
+}
+
+.cloud2 {
+	position: absolute;
+	top: 30px;
+	right: 200px;
+}
+
+.cloud1 {
+	position: absolute;
+}
+
+.mountain {
+	padding-top: 100px;
 }
