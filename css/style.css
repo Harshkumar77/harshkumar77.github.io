@@ -18,12 +18,16 @@ h1 {
 	position: absolute;
 	top: 30px;
 	right: 200px;
+	width: 20%;
 }
 
 .cloud1 {
 	position: absolute;
+	width: 20%;
 }
 
 .mountain {
 	padding-top: 100px;
+	width: 100%;
+	display: inline-block;
 }
