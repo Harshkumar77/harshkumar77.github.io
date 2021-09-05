@@ -10,14 +10,13 @@ h1 {
 .top {
 	background-color: #ccf2f4;
 	display: block;
-	padding-top: 100px;
 }
 
 .cloud2 {
-	position: absolute;
-	top: 30px;
-	right: 200px;
+	display: block;
 	width: 20%;
+	position: relative;
+	left: 70%;
 }
 
 .cloud1 {
