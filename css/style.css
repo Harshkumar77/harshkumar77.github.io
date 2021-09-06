@@ -1,4 +1,5 @@
 body {
+	margin: 0;
 	text-align: center;
 	font-family: sans-serif;
 }
@@ -17,6 +18,10 @@ hr {
 	margin-bottom: 100px;
 	border-color: gray;
 	width: 10%;
+}
+
+.top {
+	background-color: #e5fbb8;
 }
 
 .intro {
@@ -41,7 +46,7 @@ hr {
 }
 
 .profile-pic {
-	width: 15%;
+	width: 25%;
 	border-radius: 50%;
 }
 
@@ -76,15 +81,35 @@ hr {
 }
 .btn {
 	display: inline-block;
+	font-size: 30px;
 	background-color: #ff94cc;
 	color: blue;
 	border-radius: 10%;
 	padding: 35px 15px 35px;
+	margin: 20px;
 	text-decoration: none;
 }
 .btn:hover {
 	background-color: #5c33f6;
 	color: white;
 }
-.btn-txt {
+
+.middle-container {
+	padding-bottom: 20px;
+}
+
+.bottom-container {
+	padding-top: 30px;
+	background-color: #e5fbb8;
+	padding-bottom: 100px;
+}
+
+.footer-link {
+	text-decoration: none;
+	color: #f43b86;
+	font-size: 30px;
+	margin: 30px;
+}
+.footer-link:hover {
+	color: #c400ff;
 }
