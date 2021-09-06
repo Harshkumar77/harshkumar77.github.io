@@ -74,3 +74,17 @@ hr {
 	background-color: #f0d9e7;
 	border-radius: 50%;
 }
+.btn {
+	display: inline-block;
+	background-color: #ff94cc;
+	color: blue;
+	border-radius: 10%;
+	padding: 35px 15px 35px;
+	text-decoration: none;
+}
+.btn:hover {
+	background-color: #5c33f6;
+	color: white;
+}
+.btn-txt {
+}
