@@ -1,89 +1,76 @@
 body {
-	margin: 0;
 	text-align: center;
-	font-family: "Amaranth", sans-serif;
-	font-weight: normal;
-}
-h1 {
-	font-family: "Pacifico", cursive;
-	font-size: 3.125rem;
-	color: #6f69ac;
-	padding-bottom: 30px;
+	font-family: sans-serif;
 }
 
-h2 {
-	font-size: 2rem;
+h1 {
+	font-size: 4rem;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	font-family: pacifico, cursive;
 }
 
 hr {
-	border: none;
+	border-style: dotted none none;
+	border-width: 10px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	border-color: gray;
+	width: 10%;
 }
 
-p {
-	margin: 0;
-}
-
-.proffile-pic {
-	border-radius: 50% 50% 50% 50%;
-	height: 250px;
-}
-
-.top {
-	background-color: #ccf2f4;
-	display: block;
-}
-
-.cloud2 {
-	display: block;
-	width: 20%;
-	position: relative;
-	left: 70%;
+.intro {
+	margin-bottom: 70px;
+	font-size: 2em;
 }
 
 .cloud1 {
+	width: 10%;
 	position: absolute;
-	width: 20%;
+	left: 10%;
+}
+
+.cloud2 {
+	position: relative;
+	left: 20%;
+	width: 10%;
 }
 
 .mountain {
-	padding-top: 100px;
-	width: 60%;
+	width: 50%;
+}
+
+.profile-pic {
+	width: 15%;
+	border-radius: 50%;
+}
+
+.skill-title {
+	font-family: Amaranth, serif;
+	color: #a239ea;
+	font-weight: 1;
+	font-size: 2rem;
 }
 
 .skill-image {
-	/* margin: 100px; */
-	height: 300px;
 	float: left;
-	margin: auto auto 50px auto;
-}
-
-.skill-row {
 	height: 300px;
-	width: 600px;
-	margin: 100px auto 100px auto;
 }
 
 .skill-info {
-	line-height: 3;
+	width: 100%;
+	font-size: larger;
+	height: 300px;
+	line-height: 2;
 }
 
-.middle-container {
-	margin: 100px auto 100px 0px;
-}
-
-.skills {
+.skill-row {
+	margin: 0 auto 0;
+	width: 65%;
+	min-width: 900px;
 	margin-top: 100px;
 }
-
-.bottom-container {
-	background-color: #ccf2f4;
-	line-height: 4;
-}
-
-.footer-link {
-	margin-left: 30px;
-	margin-right: 30px;
-	font-size: 20px;
-	text-decoration: none;
-	color: #6f69ac;
+.android-image {
+	background-color: #f0d9e7;
+	border-radius: 50%;
 }
