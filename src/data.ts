@@ -6,3 +6,7 @@ export const c3 = '#DED7B1'
 export const c4 = '#9DAB86'
 
 export const resumeSoftware = 'https://drive.google.com/file/d/1l3HTAETG_unYgkk1yIjAi-YQnhyw5omX/view?usp=sharing'
+export const resumeFrontend = 'https://drive.google.com/file/d/1l3HTAETG_unYgkk1yIjAi-YQnhyw5omX/view?usp=sharing'
+export const resumeBackend = 'https://drive.google.com/file/d/1l3HTAETG_unYgkk1yIjAi-YQnhyw5omX/view?usp=sharing'
+export const resumePython = 'https://drive.google.com/file/d/1l3HTAETG_unYgkk1yIjAi-YQnhyw5omX/view?usp=sharing'
+export const resumeReactNative = 'https://drive.google.com/file/d/1l3HTAETG_unYgkk1yIjAi-YQnhyw5omX/view?usp=sharing'
